@@ -5,9 +5,7 @@ I'm a 26-year-old guy from Spain just trying to learn some coding in my free tim
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/miguelmikkey/miguelmikkey/refs/heads/main/5affb410-6a57-49c6-9aa0-7dec6104ad0e.png" width="24" title="VSCode">
-  <img src="https://raw.githubusercontent.com/miguelmikkey/miguelmikkey/refs/heads/main/37633923-e14f-46ca-b787-ddf1811e43b2.png" width="24" title="HTML">
   <img src="https://raw.githubusercontent.com/miguelmikkey/miguelmikkey/refs/heads/main/mongodb%20(2).png" width="24" title="mongodb">
-  <img src="https://raw.githubusercontent.com/miguelmikkey/miguelmikkey/refs/heads/main/tailwind.png" width="24" title="tailwind">
   <img src="https://raw.githubusercontent.com/miguelmikkey/miguelmikkey/refs/heads/main/b96ef024-35a5-4da6-9e9d-6e6ede76567d.png" width="24" title="javascript">
   <img src="https://raw.githubusercontent.com/miguelmikkey/miguelmikkey/refs/heads/main/2900cc9e-d990-4090-a499-02c035fe0ecd.png" width="24" title="NodeJS">
 
