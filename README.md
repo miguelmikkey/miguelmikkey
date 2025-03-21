@@ -12,7 +12,11 @@ You can reach out to me if you need anything <img src="https://raw.githubusercon
 > [!IMPORTANT]
 > I do not consider myself a software developer of any kind; I enjoy studying on my own as a hobby.
 
+<div align="center">
+
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=miguekmikkey)
 ![status](https://api.statusbadges.me/badge/status/384083999435259905?simple=true)
 ![playing](https://api.statusbadges.me/badge/playing/384083999435259905)
 [![spotify](https://api.statusbadges.me/badge/spotify/384083999435259905)](https://api.statusbadges.me/openspotify/384083999435259905)
+
+</div>
