@@ -7,7 +7,7 @@ You can reach out to me if you need anything <img src="https://raw.githubusercon
 
 > ### 🔒 **discordjs-bot-template** for `v14.18.0`
 > This repository is a flexible, modular template for building Discord bots with Discord.js. It’s designed to be easily adapted for a wide range of projects. **Includes:** `ShardingManager`, `ErrorHandlers`, `PermissionHandlers`, `Translation utils`, `etc...`
-<br>
+
 > [!CAUTION]
 > My discord bots repositories will remain `private` for now.
 
