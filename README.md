@@ -3,11 +3,13 @@ You can reach out to me if you need anything <img src="https://raw.githubusercon
 
 ## 🗃️ Some of my projects
 > ### 🔒 **GuessWho**
-> discord minigame based on "Who is who" game where users must guess the bots character in order to win, this bot uses AI and a character database to make it so people can ask anything and the bot will provide Yes/No answers, you can check it out on my [personal discord](https://discord.gg/dmVMDnm5df).
+> discord minigame based on "Who is who" game where users must guess the bots character in order to win, this bot uses AI and a character database to make it so people can ask anything and the bot will provide Yes/No answers.
 
-> ### 🔒 **discordjs-bot-template** 
-> This repository is a flexible, modular template for building Discord bots with Discord.js. It’s designed to be easily adapted for a wide range of projects.
+> ### 🔒 **discordjs-bot-template** for `v14.18.0`
+> This repository is a flexible, modular template for building Discord bots with Discord.js. It’s designed to be easily adapted for a wide range of projects. **Includes:** `ShardingManager`, `ErrorHandlers`, `PermissionHandlers`, `Translation utils`, `etc...`
 <br>
+> [!CAUTION]
+> My discord bots repositories will remain `private` for now.
 
 > [!IMPORTANT]
 > I do not consider myself a software developer of any kind; I enjoy studying on my own as a hobby.
