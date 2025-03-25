@@ -2,10 +2,10 @@
 You can reach out to me if you need anything <img src="https://raw.githubusercontent.com/miguelmikkey/miguelmikkey/ec544d163a7c88957c34dc22bed54013b447c13f/46ad6928-92a8-4357-8546-1182ac9ead41.png" width="13" title="Discord"> **[MiKKey](https://discordapp.com/users/384083999435259905)**
 
 ## 🗃️ Some of my projects
-> ### **GuessWho**
+> ### 🔒 **GuessWho**
 > discord minigame based on "Who is who" game where users must guess the bots character in order to win, this bot uses AI and a character database to make it so people can ask anything and the bot will provide Yes/No answers, you can check it out on my [personal discord](https://discord.gg/dmVMDnm5df).
 
-> ### [**discordjs-bot-template**](https://github.com/miguelmikkey/discordjs-bot-template) ![GitHub Repo stars](https://img.shields.io/github/stars/miguelmikkey/discordjs-bot-template)
+> ### 🔒 **discordjs-bot-template** 
 > This repository is a flexible, modular template for building Discord bots with Discord.js. It’s designed to be easily adapted for a wide range of projects.
 <br>
 
