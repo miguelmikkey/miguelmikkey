@@ -20,5 +20,6 @@ You can reach out to me if you need anything <img src="https://raw.githubusercon
 ![status](https://api.statusbadges.me/badge/status/384083999435259905?simple=true)
 ![playing](https://api.statusbadges.me/badge/playing/384083999435259905)
 [![spotify](https://api.statusbadges.me/badge/spotify/384083999435259905)](https://api.statusbadges.me/openspotify/384083999435259905)
+![GitHub User's stars](https://img.shields.io/github/stars/miguelmikkey?style=flat&label=profile%20stars)
 
 </div>
